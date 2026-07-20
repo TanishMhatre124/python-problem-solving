@@ -121,6 +121,4 @@ Covered:
 - BMI Calculator
 - Body Surface Area Calculator
 
----
 
-# 📂 File Naming Convention
