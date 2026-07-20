@@ -1,124 +1,109 @@
-# 🐍 Python Basics Practice (B01-B30)
+# Python Basics Practice (B01–B30)
 
-This folder contains my Python basics practice problems from beginner level to problem-solving level.
+A collection of **30 Python beginner practice programs** covering Python fundamentals, variables, data types, operators, user input, type conversion, and real-world calculation problems.
 
-The objective of this section is to build a strong foundation in Python programming by practicing variables, data types, input handling, operators, and real-world calculation problems.
+## Overview
 
----
+This module is designed to build a strong foundation in Python programming through hands-on practice. The exercises focus on understanding core language concepts and applying them to practical programming problems.
 
-# 📚 Topics Covered
+## Topics Covered
 
-## 1. Python Fundamentals
-
+### Python Fundamentals
 - Print statements
 - Python syntax
-- Writing basic Python programs
+- Comments
+- Basic program structure
 
----
-
-## 2. Variables
-
-- Creating variables
-- Assigning values
-- Updating variables
-- Using meaningful variable names
-
----
-
-## 3. Data Types
-
-Covered Python basic data types:
-
+### Variables & Data Types
+- Variable declaration and assignment
 - Integer (`int`)
 - Float (`float`)
 - String (`str`)
 - Boolean (`bool`)
+- Using `type()`
 
-Also practiced:
+### User Input & Type Conversion
+- `input()`
+- `int()`
+- `float()`
+- Data conversion between types
 
-- Checking data types using `type()`
+### Operators
+- Arithmetic Operators
+  - `+`
+  - `-`
+  - `*`
+  - `/`
+  - `//`
+  - `%`
+  - `**`
 
----
+## Practice Programs
 
-## 4. User Input
-
-Learned:
-
-- Taking input using `input()`
-- Handling user-provided values
-
----
-
-## 5. Type Conversion
-
-Practiced:
-
-- String to Integer conversion using `int()`
-- String to Float conversion using `float()`
-
----
-
-## 6. Operators
-
-Covered:
-
-### Arithmetic Operators
-
-- Addition (`+`)
-- Subtraction (`-`)
-- Multiplication (`*`)
-- Division (`/`)
-- Floor Division (`//`)
-- Modulus (`%`)
-- Power (`**`)
-
----
-
-# 🧮 Problem Categories Completed
-
-## Basic Programs
-
+### Basic Programs
 - Hello World
-- Personal Details Display
+- Personal Details
 - Variable Practice
 - Data Type Checking
 
-## Number Calculations
-
+### Mathematical Calculations
 - Sum of Two Numbers
-- Average of Three Numbers
-- Swapping Two Numbers
-- Swapping Three Numbers
+- Average Calculation
+- Swapping Variables
+- Percentage Calculator
 
-## Geometry Calculations
-
+### Geometry Problems
 - Area of Rectangle
 - Area of Circle
 - Area of Triangle
 - Perimeter of Rectangle
 
-## Conversion Programs
-
-- Celsius to Fahrenheit
-- Fahrenheit to Celsius
-- Kilometer to Meter
-- Seconds to Hours, Minutes and Seconds
+### Unit Conversion
+- Celsius ↔ Fahrenheit
+- Kilometer → Meter
+- Time Conversion
 - Days to Years, Months and Days
 
-## Finance Calculations
-
-- Simple Interest Calculator
-- Compound Interest Calculator
+### Financial Calculations
+- Simple Interest
+- Compound Interest
 - CAGR Calculator
 - EMI Calculator
 
-## Real-World Calculations
-
+### Real-World Applications
 - Salary Calculator
 - Discount Calculator
-- Profit/Loss Calculator
+- Profit & Loss Calculator
 - Electricity Bill Calculator
 - BMI Calculator
 - Body Surface Area Calculator
 
+## Skills Developed
 
+- Python Fundamentals
+- Variables and Data Types
+- User Input Handling
+- Type Conversion
+- Arithmetic Operations
+- Mathematical Problem Solving
+- Real-World Programming Logic
+- Clean Python Coding Practices
+
+## Repository Structure
+
+```text
+Python_Basics/
+├── B01_hello_world.py
+├── B02_variables.py
+├── ...
+├── B30_body_surface_area.py
+└── README.md
+```
+
+## Learning Outcome
+
+After completing this module, I gained a solid understanding of Python fundamentals and developed the ability to solve beginner-level programming problems using clean, structured, and readable Python code.
+
+---
+
+**Next Module:** Python Strings (S01–S30)
